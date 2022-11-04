@@ -1,3 +1,17 @@
+# User added
+pretrained_weights/
+*.pth
+*.gz
+*ubyte
+events.*
+*.tsv
+*.pbtxt
+*.png
+runs/
+data/
+nbs/lightning_logs
+lightning_logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

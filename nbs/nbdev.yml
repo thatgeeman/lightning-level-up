@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lightning-level-up"
+  site-url: "https://thatgeeman.github.io/lightning-level-up"
+  description: "Model development with Lightning."
+  repo-branch: main
+  repo-url: "https://github.com/thatgeeman/lightning-level-up"

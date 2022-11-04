@@ -1,0 +1,34 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.22"
+pandas = "==1.4"
+matplotlib = "*"
+torch = "==1.12"
+torchvision = "==0.13"
+scikit-learn = "==1.1"
+tqdm = "*"
+tensorboard = "==2.10.0"
+pytorch-lightning = ">=1.8"
+ipywidgets = "==7"
+
+[dev-packages]
+nbdev = "==2.3.7"
+ipykernel = "*"
+setuptools = "*"
+pre-commit = "*"
+twine = "*"
+black = "*"
+line-profiler = "*"
+memory-profiler = "*"
+jupyter-core = "*"
+nbconvert = "*"
+jupyterlab = "*"
+jupyterlab-widgets = "*"
+notebook = "*"
+
+[requires]
+python_version = "3.10"
